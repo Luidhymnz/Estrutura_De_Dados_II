@@ -22,8 +22,7 @@ Quando um recurso de navegação fica indisponível, a operação precisa ser re
 - **Representação:** lista de adjacência (`dict` de listas), gerada a partir de uma lista de arestas pela função `construir_grafo`. Isso garante que toda aresta apareça nas listas dos dois extremos.
 
 ![alt text](<Captura de tela 2026-10-30 205505-1.png>)
-<img width="842" height="547" alt="image" src="https://github.com/user-attachments/assets/6cc6b3ec-ba5d-4d1c-a91b-60f07706f24a" />
-
+"C:\Users\Andre\Downloads\diagrama_bloqueio_estilo.png"
 
 | Sigla | Aeroporto (cidade) | Vizinhos |
 |---|---|---|
